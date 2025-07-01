@@ -12,6 +12,6 @@ C'est [ici](https://pixelplace.io/7-pixels-world-war#x=1204&y=748&s=2.54) !
 - Coeur Français
 - Coeur Suisse
 - Coeur Tchéque
-- Symbole Suisse
-- Symbole Tchéque
-- Symbole Français
+- [Symbole Suisse](https://github.com/FRPW-French-Power/Ressources/blob/main/Symbole%20Suisse.png)
+- [Symbole Tchéque](https://github.com/FRPW-French-Power/Ressources/blob/main/Symbole%20Tch%C3%A9que.png)
+- [Symbole Français](https://github.com/FRPW-French-Power/Ressources/blob/main/Symbole%20Fran%C3%A7ais.png)
